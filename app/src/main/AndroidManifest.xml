@@ -9,7 +9,7 @@
 		android:roundIcon="@mipmap/ic_launcher_round"
 		android:supportsRtl="true"
 		android:theme="@style/Theme.RxJavaLecture">
-		<activity android:name=".callback.MainActivity">
+		<activity android:name=".callback.ui.MainActivity">
 
 		</activity>
 		<activity android:name=".reactive.RxWayActivity">
